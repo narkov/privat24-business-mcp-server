@@ -27,12 +27,10 @@ This repository is not affiliated with, endorsed by, or maintained by PrivatBank
 
 ## Official References
 
-- PrivatBank SME developer portal: <https://smebank.privatbank.ua/ua/developers>
-- Privat24 Business API integration docs: <https://integration.privatbank.ua/ua/docs/p24business/>
-- Autoclient API overview: <https://integration.privatbank.ua/ua/docs/p24business/autoclient.html>
-- Statement settings: <https://integration.privatbank.ua/ua/docs/p24business.html#api-StatementSettings>
-- Balances and statements: <https://integration.privatbank.ua/ua/docs/p24business.html#api-Istoriyaizmenenijnabalanse>
-- Payment creation: <https://integration.privatbank.ua/ua/docs/p24business.html#api-Sozdanieplatezha>
+- PrivatBank API developer portal: <https://api.privatbank.ua/>
+- Privat24 Business integration overview: <https://privatbank.ua/business/intehratsiya>
+- Autoclient API v3 documentation: <https://docs.google.com/document/d/e/2PACX-1vTtKvGa3P4E-lDqLg3bHRF6Wi9S7GIjSMFEFxII5qQZBGxuTXs25hQNiUU1hMZQhOyx6BNvIZ1bVKSr/pub>
+- Autoclient instruction manual: <https://docs.google.com/document/d/e/2PACX-1vTion-fu1RzMCQgZXOYKKWAmvi-QAAxZ7AKnAZESGY5lF2j3nX61RBsa5kXzpu7t5gacl6TgztonrIE/pub>
 - Public exchange rates API: <https://api.privatbank.ua/#p24/exchange>
 - Model Context Protocol: <https://modelcontextprotocol.io/introduction>
 
